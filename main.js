@@ -36,6 +36,8 @@ const words = {
     "r",
     "mysql",
     "python",
+    "java",
+    "c",
   ],
   movies: [
     "Prestige",
@@ -53,6 +55,7 @@ const words = {
     "Alexander",
     "Cleopatra",
     "Mahatma Ghandi",
+    "Mo Alaa",
   ],
   countries: ["Syria", "Palestine", "Yemen", "Egypt", "Bahrian", "Qatar"],
 };
