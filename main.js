@@ -1,5 +1,5 @@
 // Letters
-const letters = "abcdefghigklmnopqrstuvwxyz";
+const letters = "abcdefghijklmnopqrstuvwxyz";
 
 // Get Array From Letters
 const lettersArray = Array.from(letters);
